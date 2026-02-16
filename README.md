@@ -24,7 +24,4 @@ Smart Expense Tracker & Analytics Dashboard is a Python-based web application bu
 - **Data Processing:** Pandas, NumPy  
 - **Data Visualization:** Matplotlib  
 - **Storage:** CSV file  
-
 ---
-
-## 📁 Project Structure
